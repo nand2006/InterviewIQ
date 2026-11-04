@@ -1,4 +1,4 @@
-# InterviewIQ v4 🎯
+# InterviewIQ v4 
 ### AI-Based Resume-Driven Interview Practice System
 
 ---
